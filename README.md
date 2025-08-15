@@ -45,6 +45,6 @@ This portfolio showcases my personal projects.
 ---
 
 ## 📬 Contact
-💼 [My GitHub Profile](https://github.com/Cecilia-cmd)  
+💼 [My LinkedIn Profile](https://www.linkedin.com/in/torres-cecilia/)  
 📧 Email available upon request
 
