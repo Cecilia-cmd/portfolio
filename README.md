@@ -1,50 +1,15 @@
-# 📂 Portfolio — Projects
+# 📁 Portfolio – Personal Data Projects
 
-This portfolio showcases my personal projects.
+This repository contains my **personal data projects**, built to strengthen my analytical, technical, and business-oriented skills.
 
----
+## 📌 Current Project
 
-## 📌 Projects
+### 1. Superstore Sales & Operations Analysis  
+**Tech stack:** SQL • Python • Tableau  
 
-### 1. Maintenance Risk Prediction
-**Goal:** Predict the probability of machine failure using industrial sensor data.
+End-to-end analytics project on the Superstore dataset (Kaggle):  
+- Data cleaning & encoding (Python)  
+- KPI modeling & exploration (SQL)  
+- Dashboards and business insights (Tableau)
 
-**Dataset:** [Kaggle - Machine Failure Prediction using Sensor Data](https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data)
-
-**Key steps:**
-- **Exploration:** Dataset overview, distributions, missing values, correlation analysis.
-- **Preprocessing:** Missing value handling, scaling, encoding, train/test split.
-- **Modeling:**
-  - Logistic Regression (baseline)
-  - Random Forest & XGBoost (benchmark)
-- **Evaluation:** Accuracy, Precision, Recall, F1-score, ROC-AUC.
-- **Interpretability:** Feature importance and SHAP analysis.
-
-**Main files:**
-- `1_exploration.ipynb`
-- `2_preprocessing.ipynb`
-- `3_modeling.ipynb`
-- `4_modeling_rf_xgb.ipynb`
-
----
-
-### 2. 🎓 University ML Project
-**Goal:** End-to-end machine learning project completed during my studies, applying a full ML pipeline to a real dataset.
-
-**Dataset:** See project README for source and details.
-
-**Key steps:**
-- Data exploration & cleaning.
-- Feature engineering & preprocessing.
-- Model training & evaluation with multiple algorithms.
-- Result interpretation & visualizations.
-
-**Folder:** `university_ml_project`  
-(Currently the original project from university; will be updated with clearer annotations and visual improvements.)
-
----
-
-## 📬 Contact
-💼 [My LinkedIn Profile](https://www.linkedin.com/in/torres-cecilia/)  
-📧 Email available upon request
-
+👉 Folder: `superstore_project/`
