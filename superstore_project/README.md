@@ -32,8 +32,7 @@ It demonstrates my ability to **clean data**, **build KPIs**, **perform explorat
 
 ### **3. Post-SQL Validation (Python)**
 
-* Ran additional sanity checks and descriptive statistics on cleaned data
-  (outliers, missing values, distribution checks).
+* Ran additional sanity checks and descriptive statistics on cleaned data.
 
 ### **4. Visual Analytics (Tableau)**
 
@@ -49,7 +48,7 @@ Two dashboards were created:
 
 ## 📥 Dataset Source
 
-Kaggle — Superstore Dataset (public):
+Kaggle - Superstore Dataset (public):
 [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
