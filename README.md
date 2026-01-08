@@ -14,8 +14,8 @@ End-to-end analytics project on the Superstore dataset (Kaggle):
 
 👉 Folder: `superstore_project/`
 
+---
 
---
 ### 2. Banking Customer & Transaction Analysis 
 **Tech stack:** SQL • Python • Tableau  
 End-to-end analytics project on the Banking and Customer Transaction dataset (Kaggle):
