@@ -25,3 +25,26 @@ End-to-end analytics project on the Banking and Customer Transaction dataset (Ka
 - Business-ready dashboards for decision support (Tableau)
 
 👉 Folder: `BankingCustomer_transaction_project/`
+
+---
+### 3. Portfolio Advisory Tool (Excel & VBA)
+
+**Tech stack:** Excel • VBA
+
+Mini project simulating a portfolio advisory reporting tool, inspired by private banking and wealth management workflows.
+
+Key features:
+- Client portfolio summary
+- Structured holdings table with FX conversion to base currency
+- Automated refresh of calculations and reporting timestamp
+- VBA-generated market commentary (macro-focused, Switzerland – January 2026 context)
+- Clear separation between:
+  - Portfolio Summary (client-specific, micro)
+  - Market Commentary (macro context)
+
+Design choices:
+- Excel Mac–compatible
+- Simple, readable VBA (no ActiveX, no fragile PDF automation)
+- Focus on robustness, clarity, and realistic advisory logic rather than production complexity
+
+👉 Folder: `portfolio_advisory_excel_vba/`
