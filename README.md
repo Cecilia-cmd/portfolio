@@ -38,13 +38,5 @@ Key features:
 - Structured holdings table with FX conversion to base currency
 - Automated refresh of calculations and reporting timestamp
 - VBA-generated market commentary (macro-focused, Switzerland – January 2026 context)
-- Clear separation between:
-  - Portfolio Summary (client-specific, micro)
-  - Market Commentary (macro context)
-
-Design choices:
-- Excel Mac–compatible
-- Simple, readable VBA (no ActiveX, no fragile PDF automation)
-- Focus on robustness, clarity, and realistic advisory logic rather than production complexity
 
 👉 Folder: `portfolio_advisory_excel_vba/`
